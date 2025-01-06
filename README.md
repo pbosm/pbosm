@@ -7,7 +7,7 @@
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/pbosm)
 
-### Tecnologias com as quais já trabalhe
+### Linguagens e Ferramentas de Desenvolvimento
 
 <div style="display: inline-block">
   <!-- Frontend -->
@@ -38,7 +38,7 @@
   <img align="center" alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
-### Plataformas em que já trabalhei
+### Ambientes e Plataformas de Desenvolvimento
 
 <div style="display: inline-block; margin-top: 20px;">
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
